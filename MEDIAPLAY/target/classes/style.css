@@ -1,0 +1,16 @@
+#progressBar{
+      -fx-background-color:#C8B7BE;
+}
+#Button{
+     -fx-background-color:#222222;
+     -fx-text-fill:black;
+     -fx-font-size:13px;
+     -fx-font-type:Arial;
+
+}
+#PANE{
+     -fx-background-color: #219099;
+     -fx-height:340px;
+     -fx-width:770px;
+
+     }
